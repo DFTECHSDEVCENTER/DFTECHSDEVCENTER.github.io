@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/bravo68web
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dftechsdevcenter.github.io
+  * I am bravo68web (https://keybase.io/bravo68web) on keybase.
+  * I have a public key with fingerprint AA31 B0E3 71EA 1C5C 6FDD  C1C5 FD2F B8D7 11AA 0C69
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014019cbece8f2690040e3090ff9653e5a30691fd4743288a13465b087f0669acb0a",
+      "fingerprint": "aa31b0e371ea1c5c6fddc1c5fd2fb8d711aa0c69",
+      "host": "keybase.io",
+      "key_id": "fd2fb8d711aa0c69",
+      "kid": "01014019cbece8f2690040e3090ff9653e5a30691fd4743288a13465b087f0669acb0a",
+      "uid": "a4c2d757e9106bd904dfe53af67e4019",
+      "username": "bravo68web"
+    },
+    "service": {
+      "hostname": "dftechsdevcenter.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1583177034,
+  "expire_in": 157680000,
+  "prev": "15b3e0f4a7a1c89f73e4b008170c8dc5511e48a0b65bd946ec6cbb26865e2235",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIzAnicrZJbSBVBGMePlYbWIeuhMCpin7qIzpzdnd09kN2goisVvYR2mpn99pxN
+O3vc3XMqzG70IEV2sQslEYkVgRAJ2kMXswtF0gUqQiLsFFQaFEVIRWWzZm89Ni8z
+8/H/ft//+2ZuhYeHCnJWFF+blNq3MJLT1XkuHVpXUbG4RmKOuUWK1kiVMLhBlQme
+H6u0TSkqIYywgrDBGXDQrQgxEFIQyMhAlmUQVQaVyogY2DIVTZEjuk6xrBCVIV2z
+ECEG5QxRqViy7GQc3JRrJ32BpVTGTGA0DBRzlRPLNLk4WGbEYrqpYUwp4sQQiQnH
+CzKEOUY9KLEdEROX2KC9f+j/s+/0II4qPGJqqgYGRoSZBlJMC1SZWkSDoEwg9MBN
+0o0g1MylGYfom4BJtcWSiGdsDsFog16GNKblA094JmQ4JH1wS+K2n0izP/2lXMd3
+uFMldAnfT3nRgONvSQWJghobQsaYnTTFXEVGBlzPdpJSFAsl9+2gBlZ1GWsakpVi
+CTanbBdidqBQNaIjsYI6kBFIrDIZkKVQTTyGbliaDApDSMca4rrJVRVjUHSKmJiP
+aSgEOOGMRYhOVIhEZFUKmqxOOlKUCJs0LpCeHU9SP+2CVHvjevmIUE5BKC93WPDf
+QgX5hX9/4cejIwcWHIpfyCmqGX0879O2teNmZKGr601989P+7KXPZzfw/GU9b1pQ
+Ka0NZzfPbFz96/5R3lx+Mfxs68s9nfsLp5zspWWrDr72B/peH7g9oXvWvW99HTe3
+n73lnZg6WV6TMVrOtx2uL+tdV3e67EkDafTa8neFRy3P9h9Tc6vp97b6xe+XznZa
+J5c0vbi0dxf6evnB6Z7KzrrzS15NO9O2f9Exf1Hpr6b0uPlK/dsPiXjVvLwryyFR
+dfLOD+X5vvBue2VupqGo7u2cge7CeR07p49pmRO+trP9nfRlLFitHc1PN+ZNHK9t
+29Fz9fHcn3cPntrR0PfuYXv2SFMpHTj1eH5qPTOu9D/6DeNkS8E=
+=g1cg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bravo68web
+
+==================================================================
